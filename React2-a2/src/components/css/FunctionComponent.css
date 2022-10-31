@@ -1,0 +1,14 @@
+.function{
+    
+    padding:20px;
+    height:300px;
+    
+}
+.tbl,tr,th,td{
+ border:1px solid black;
+ 
+}
+.tbl{
+    width:500px;
+    border-collapse: collapse;
+}
