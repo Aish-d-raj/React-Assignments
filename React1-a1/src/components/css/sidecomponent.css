@@ -1,0 +1,23 @@
+.side{
+  
+  float: right;
+  width: 400px;
+  height:300px;
+  margin-top: 20px;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+  border:5px solid red;
+  
+}
+
+table,tr,td{
+    width: 300px;
+    
+    background-color: aquamarine;
+    border-collapse: collapse;
+    border:5px solid teal;
+    
+}
+table{
+    height: 200px;
+}
